@@ -4,7 +4,7 @@
 ## 🎯 Project Objective:
 **To develop a dynamic and insightful dashboard that enables real-time monitoring and performance evaluation of production operations in a manufacturing plant. The focus is on visualizing key metrics like work orders, finished goods, defect quantity, and shift-wise analysis to support data-driven decision-making and operational efficiency.**
 
-![Sales Dashboard](/Project_1/images/Production_dash.png)
+![Production Dashboard](/Production%20Analysis/images/Production_dash.png)
 
 ## 🧰 Tools & Technologies Used:
 - Power BI: Dashboard development & DAX calculations
