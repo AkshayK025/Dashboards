@@ -76,3 +76,8 @@ To create a shift-level production monitoring dashboard that analyzes operationa
 - Supported lean manufacturing practices through shift-wise metrics
 
 
+
+## Disclaimer
+Note: This dataset is made up for practice and learning with the help of AI tools. It’s inspired by real-life examples but doesn’t represent any actual company or production data.
+
+

@@ -46,3 +46,7 @@ Gauge visual showing that 273K units were produced against a 295K target.
 - Provided actionable insights to reduce shift II rejections
 - Supported managers in identifying underperforming days or shifts
 - Guided decisions to optimize production targets and part-level focus
+
+
+## Disclaimer
+Note: This dataset and is made up for practice and learning with the help of AI tools. It’s inspired by real-life examples but doesn’t represent any actual company or production data.
